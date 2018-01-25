@@ -1,0 +1,23 @@
+{
+  "name": "send-emails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dil2000/send-Emails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dil2000/send-Emails/issues"
+  },
+  "homepage": "https://github.com/Dil2000/send-Emails#readme",
+  "dependencies": {
+    "emailjs": "^1.0.12",
+    "express": "^4.16.2"
+  }
+}
